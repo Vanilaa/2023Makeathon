@@ -11,7 +11,7 @@ XXX
 3. XXX
 
 ## Action Items:
-- [ ] 
+- [ ] After finish strike through using '~~'
 - [ ] 
 - [ ] 
 - [ ] 
