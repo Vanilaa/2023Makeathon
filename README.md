@@ -2,7 +2,7 @@
 2023 Makeathon Code Repo for collaborators: Alina, Xiaoyu, Yaqi, Vivian
 
 ## The main theme this year
----------------------------
+
 XXX
 
 ## We brainstormed the following ideas: 
@@ -15,3 +15,5 @@ XXX
 - [ ] 
 - [ ] 
 - [ ] 
+
+---
