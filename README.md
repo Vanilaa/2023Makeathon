@@ -1,4 +1,4 @@
-# 2023Makeathon
+# 2023Make-a-thon
 2023 Makeathon Code Repo for collaborators: Alina, Xiaoyu, Yaqi, Vivian
 
 ## The main theme this year
