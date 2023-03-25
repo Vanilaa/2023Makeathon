@@ -12,7 +12,7 @@ XXX
 
 ## Action Items:
 - [ ] After finish strike through using '~~'
-- ~~[ ] ewrethrysjt ~~
+- [ ] ~~ewrethrysjt~~
 - [ ] 
 - [ ] 
 
