@@ -3,17 +3,8 @@
 
 ## The main theme this year
 
-XXX
+Green Data
 
-## We brainstormed the following ideas: 
-1. XXX
-2. XXX
-3. XXX
+## Our Projecet
 
-## Action Items:
-- [ ] After finish strike through using '~~'
-- [ ] 
-- [ ] 
-- [ ] 
-
----
+Smart Traffic Light System: adjust the duration of traffic lights based on the traffic flow data we input from the joystick, then display the traffic condition on the OLED screen. By reducing the average waiting time of vehicles, our approach can significantly fix the carbon emission and heat island problem.
